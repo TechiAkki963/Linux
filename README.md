@@ -50,4 +50,11 @@ Keyboard Shortcuts
 
     - to create password for root
       >sudo passwd root
-      New password : admin@369
+      - New password : admin@369
+
+    - to acess root user
+      >su
+
+    *  ls /  vs ls /root/
+      - the ls / - it is the top most directory in the linux system.
+      - ls /root/ - it is root directory 

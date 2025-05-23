@@ -55,6 +55,6 @@ Keyboard Shortcuts
     - to acess root user
       >su
 
-    *  ls /  vs ls /root/
+*  ls /  vs ls /root/
       - the ls / - it is the top most directory in the linux system.
       - ls /root/ - it is root directory 

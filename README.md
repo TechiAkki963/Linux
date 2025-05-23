@@ -35,4 +35,12 @@ Keyboard Shortcuts
 - running command without leaving a trace
   space and then the command
   so the command is not caught in the system
+
+  - to view the history with time
+    >HISTTIMEFORMAT="%d/m//y %T"
+  - set history with time in permenant setting
+    >echo "HISTTIMEFORMAT="%d/m//y %T"" >> .bashrc
+    - to check the command is registered in bashrc file
+      >cat .bashrc
+
   

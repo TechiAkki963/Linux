@@ -43,4 +43,11 @@ Keyboard Shortcuts
     - to check the command is registered in bashrc file
       >cat .bashrc
 
-  
+  * # Root
+
+    - to create a temporary root user
+      >sudo su
+
+    - to create password for root
+      >sudo passwd root
+      New password : admin@369
